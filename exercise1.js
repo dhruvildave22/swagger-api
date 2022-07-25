@@ -4,7 +4,7 @@ function greet() {
     let b = "world";
     console.log(a + " " + b);
   }
- 	console.log(a + " " + b +  “ “ + c )
+ 	console.log(a + " " + b +  " " + c )
 }
 
 greet();
