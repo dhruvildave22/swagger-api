@@ -1,7 +1,7 @@
 function greet() {
-  let a = "hello";
+  const a = "hello";
   if (a == "hello") {
-    let b = "world";
+    const b = "world";
     console.log(a + " " + b);
   }
  	console.log(a + " " + b +  " " + c )
